@@ -18,7 +18,7 @@ class TabBarSection extends StatelessWidget {
             Icon(Icons.memory_outlined, size: 26, color: kTextPrimary),
             SizedBox(height: 6),
             Text(
-              'Tab Title',
+              'Pula el titulo',
               style: TextStyle(
                 fontSize: 12,
                 fontWeight: FontWeight.w600,

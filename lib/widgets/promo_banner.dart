@@ -24,8 +24,8 @@ class PromoBanner extends StatelessWidget {
             children: <Widget>[
               const Expanded(
                 child: Text(
-                  'Going through crypto exchanges can be tedious. '
-                  'We made it seemless.',
+                  'Ya merito lo muestra '
+                  'Estamos trabajando para ti profe Juanse',
                   style: TextStyle(
                     fontSize: 14,
                     height: 1.4,

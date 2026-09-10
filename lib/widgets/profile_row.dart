@@ -26,7 +26,7 @@ class ProfileRow extends StatelessWidget {
               ),
               const SizedBox(height: 4),
               const Text(
-                '7 mutual friends',
+                '7 firends en comun teacher',
                 style: TextStyle(fontSize: 15, color: kTextSecondary),
               ),
               const SizedBox(height: 10),
