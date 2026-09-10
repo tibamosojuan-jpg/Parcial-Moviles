@@ -39,7 +39,7 @@ class BookCard extends StatelessWidget {
                   ),
                   SizedBox(height: 6),
                   Text(
-                    'Classic novel by F. Kafka about absurdity of '
+                    'Novela clásica de F. Kafka'
                     'totalitarianism.',
                     style: TextStyle(
                       fontSize: 15,
